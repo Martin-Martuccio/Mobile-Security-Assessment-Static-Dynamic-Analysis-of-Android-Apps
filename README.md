@@ -4,6 +4,9 @@
 
 This repository contains a security report on two mobile applications, referred to as **APP1** and **APP2** (names censored for legal reasons). The purpose of the report is purely educational, aiming to demonstrate how to analyze vulnerabilities in Android applications using automated security analysis tools.
 
+[📄 Download the full report (PDF)](Mobile_Security_Censured.pdf)
+
+
 ### Report Content
 
 The report is divided into several sections:
